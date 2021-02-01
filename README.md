@@ -12,4 +12,4 @@ Details zu Zeitplanung und Teilnahme am Kurs entnehmen Sie bitte der Einladung:
 <sub>(Um die Links im PDF anklicken zu können, müssen Sie die Datei erst links oben herunterladen.)</sub>
 
 ## Kursmaterialien
-Zum Kursbeginn stehen hier die Materialien zum Vorkurs zur Verfügung.
+Zum Kursbeginn stehen hier die Materialien zum Tutorium zur Verfügung.
