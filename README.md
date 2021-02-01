@@ -7,7 +7,7 @@ Kontakt: jonathan.busse(at)hhu.de
 
 Details zu Zeitplanung und Teilnahme am Kurs entnehmen Sie bitte der Einladung:
 
--[Einladung zum Tutorium der Analysis II](https://github.com/JoKaBus/ANAII2021/blob/main/Organisatorisches/EinladungAnalysisIIFerientutorium2021.pdf)
+- [Einladung zum Tutorium der Analysis II](https://github.com/JoKaBus/ANAII2021/blob/main/Organisatorisches/EinladungAnalysisIIFerientutorium2021.pdf)
 
 ## Kursmaterialien
 Zum Kursbeginn stehen hier die Materialien zum Vorkurs zur Verfügung.
