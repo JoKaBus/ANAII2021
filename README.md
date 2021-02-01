@@ -9,7 +9,7 @@ Details zu Zeitplanung und Teilnahme am Kurs entnehmen Sie bitte der Einladung:
 
 - [Einladung zum Tutorium der Analysis II](https://github.com/JoKaBus/ANAII2021/blob/main/Organisatorisches/EinladungAnalysisIIFerientutorium2021.pdf)
 
-Um die Links im PDF anklicken zu können, müssen Sie die Datei erst (links oben) herunterladen.
+<sub>(Um die Links im PDF anklicken zu können, müssen Sie die Datei erst (links oben) herunterladen.)</sub>
 
 ## Kursmaterialien
 Zum Kursbeginn stehen hier die Materialien zum Vorkurs zur Verfügung.
