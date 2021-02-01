@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+# Liebe Studierende,
 
-You can use the [editor on GitHub](https://github.com/JoKaBus/ANAII2021/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+willkommen zum Tutorium Analysis II in den Semesterferien zum Sommersemester 2021. Wir treffen uns vom 22. bis zum 26. März täglich von 10:00 bis 16:00.
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+Kontakt: jonathan.busse(at)hhu.de
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Details zu Zeitplanung und Teilnahme am Kurs entnehmen Sie bitte der Einladung.
 
-### Jekyll Themes
+- [Einladung zum Ferientutorium der Analyis II](https://github.com/JoKaBus/ANAII2021/blob/main/Organisatorisches/EinladungAnalysisIIFerientutorium2021.pdf)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/JoKaBus/ANAII2021/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Zum Kursbeginn stehen hier die Materialien zum Vorkurs zur Verfügung.
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Kursmaterialien
+- ...
