@@ -14,3 +14,17 @@ Details zu Zeitplanung und Teilnahme am Kurs entnehmen Sie bitte der Einladung:
 
 ## Kursmaterialien
 Zum Kursbeginn stehen hier die Materialien zum Tutorium zur Verfügung.
+
+## Zeitplan
+
+### Montag, 22.03.2021: Differentialrechnung
+Themen: Metrik, Norm, Skalarprodukt, Differenzierbarkeit
+
+### Dienstag, 23.03.2021: Differentialrechnung
+
+### Mittwoch, 24.03.2021: Differentialgleichung
+
+### Donnerstag, 25.03.2021: Differentialgleichung
+
+### Freitag, 26.03.2021: Probeklausur
+
