@@ -20,11 +20,11 @@ Details zu Zeitplanung und Teilnahme am Kurs entnehmen Sie bitte der Einladung:
 ### Montag, 22.03.2021: Differentialrechnung
 Themen: Metrik, Norm, Skalarprodukt, Differenzierbarkeit
 
-- [-] Aufgabe 8.1.0
-- [-] Aufgabe 8.1.1
-- [-] Aufgabe 8.1.2
-- [-] Aufgabe 8.1.3
-- [-] Aufgabe 8.1.4
+- [x] Aufgabe 8.1.0
+- [x] Aufgabe 8.1.1
+- [x] Aufgabe 8.1.2
+- [x] Aufgabe 8.1.3
+- [x] Aufgabe 8.1.4
 
 ### Dienstag, 23.03.2021: Differentialrechnung
 Themen: Differenzierbarkeit, Kettenregel, Satz von Taylor, Extrema
