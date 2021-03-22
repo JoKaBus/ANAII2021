@@ -34,7 +34,7 @@ Themen: Differenzierbarkeit, Kettenregel, Satz von Taylor, Extrema
 - [ ] Aufgabe 8.1.7
 - [ ] Aufgabe 8.1.8
 - [ ] Aufgabe 8.1.9
-- [ ] Aufgabe 8.1.19
+- [ ] Aufgabe 8.1.10
 
 ### Mittwoch, 24.03.2021: Differentialgleichung
 
