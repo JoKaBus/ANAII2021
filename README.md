@@ -35,7 +35,7 @@ Themen: Differenzierbarkeit, Kettenregel, Satz von Taylor, Extrema
 - [x] Aufgabe 8.1.7
 - [x] Aufgabe 8.1.10
 - [ ] Aufgabe 8.1.11
-- [ ] Aufgabe 8.1.12
+- [ ] Aufgabe 8.1.12 (Korrigierte Version online, (x+1) anstelle von (x+1/2) unterm Bruch)
 
 ### Mittwoch, 24.03.2021: Differentialgleichung
 
