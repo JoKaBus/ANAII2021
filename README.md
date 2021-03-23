@@ -25,14 +25,15 @@ Themen: Metrik, Norm, Skalarprodukt, Differenzierbarkeit
 - [x] Aufgabe 8.1.2
 - [x] Aufgabe 8.1.3
 - [x] Aufgabe 8.1.4
-- [x] Aufgabe 8.1.5
+- [ ] Aufgabe 8.1.5
 
 ### Dienstag, 23.03.2021: Differentialrechnung
 Themen: Differenzierbarkeit, Kettenregel, Satz von Taylor, Extrema
 
+- [x] Aufgabe 8.1.5 (Nachbesprechung)
 - [ ] Aufgabe 8.1.6
 - [ ] Aufgabe 8.1.7
-- [ ] Aufgabe 8.1.8
+- [ ] Aufgabe 8.1.10
 - [ ] Aufgabe 8.1.11
 - [ ] Aufgabe 8.1.12
 
