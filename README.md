@@ -31,9 +31,9 @@ Themen: Metrik, Norm, Skalarprodukt, Differenzierbarkeit
 Themen: Differenzierbarkeit, Kettenregel, Satz von Taylor, Extrema
 
 - [x] Aufgabe 8.1.5 (Nachbesprechung)
-- [ ] Aufgabe 8.1.6
-- [ ] Aufgabe 8.1.7
-- [ ] Aufgabe 8.1.10
+- [x] Aufgabe 8.1.6
+- [x] Aufgabe 8.1.7
+- [x] Aufgabe 8.1.10
 - [ ] Aufgabe 8.1.11
 - [ ] Aufgabe 8.1.12
 
