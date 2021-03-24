@@ -13,7 +13,7 @@ Details zu Zeitplanung und Teilnahme am Kurs entnehmen Sie bitte der Einladung:
 <sub>(Um die Links im PDF anklicken zu können, müssen Sie die Datei erst rechts oben herunterladen.)</sub>
 
 ## Kursmaterialien
-- [Analysis II Miniskript, Stand: 23.03.2021, 19:27 Uhr](https://github.com/JoKaBus/ANAII2021/blob/main/Skript/AnalysisIIMiniskript2021.pdf)
+- [Analysis II Miniskript, Stand: 24.03.2021, 11:26 Uhr](https://github.com/JoKaBus/ANAII2021/blob/main/Skript/AnalysisIIMiniskript2021.pdf)
 
 ## Zeitplan
 
@@ -38,6 +38,14 @@ Themen: Differenzierbarkeit, Kettenregel, Satz von Taylor, Extrema
 - [ ] Aufgabe 8.1.12 (Korrigierte Version online, (x+1) anstelle von (x+1/2) unterm Bruch)
 
 ### Mittwoch, 24.03.2021: Differentialgleichung
+Themen: Satz über implizite Funktionen, Lagrang-Multiplikatoren, Differentation unterm Integral, Klassifikation und Lösungsmethoden gewöhnlicher Differentialgleichungen
+
+- [x] Aufgabe 8.1.12 (Nachbesprechung)
+- [ ] Aufgabe 1.8.13
+- [ ] Aufgabe 1.8.14
+- [ ] Aufgabe 1.8.15
+- [ ] Aufgabe 2.4.1
+- [ ] Aufgabe 2.4.2
 
 ### Donnerstag, 25.03.2021: Differentialgleichung
 
