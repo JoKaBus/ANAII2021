@@ -13,7 +13,7 @@ Details zu Zeitplanung und Teilnahme am Kurs entnehmen Sie bitte der Einladung:
 <sub>(Um die Links im PDF anklicken zu können, müssen Sie die Datei erst rechts oben herunterladen.)</sub>
 
 ## Kursmaterialien
-- [Analysis II Miniskript, Stand: 24.03.2021, 16:30 Uhr](https://github.com/JoKaBus/ANAII2021/blob/main/Skript/AnalysisIIMiniskript2021.pdf)
+- [Analysis II Miniskript, Stand: 25.03.2021, 12:30 Uhr](https://github.com/JoKaBus/ANAII2021/blob/main/Skript/AnalysisIIMiniskript.pdf)
 
 ## Zeitplan
 
@@ -48,6 +48,13 @@ Themen: Satz über implizite Funktionen, Lagrang-Multiplikatoren, Differentation
 - [ ] Aufgabe 2.4.2
 
 ### Donnerstag, 25.03.2021: Differentialgleichung
+Themen: Phasenräume, Fundamentalsystem
+
+- [ ] Aufgabe 2.4.2
+- [ ] Aufgabe 2.4.3
+- [ ] Aufgabe 2.4.4
+- [x] Aufgabe 2.4.5 (Gemeinsam)
+- [ ] Aufgabe 2.4.6
 
 ### Freitag, 26.03.2021: Probeklausur
 
