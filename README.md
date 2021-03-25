@@ -13,7 +13,7 @@ Details zu Zeitplanung und Teilnahme am Kurs entnehmen Sie bitte der Einladung:
 <sub>(Um die Links im PDF anklicken zu können, müssen Sie die Datei erst rechts oben herunterladen.)</sub>
 
 ## Kursmaterialien
-- [Analysis II Miniskript, Stand: 25.03.2021, 12:30 Uhr](https://github.com/JoKaBus/ANAII2021/blob/main/Skript/AnalysisIIMiniskript.pdf)
+- [Analysis II Miniskript: Sätze, Übungsaufgaben, Musterlösungen. Stand: 25.03.2021, 12:30 Uhr](https://github.com/JoKaBus/ANAII2021/blob/main/Skript/AnalysisIIMiniskript.pdf)
 
 ## Zeitplan
 
