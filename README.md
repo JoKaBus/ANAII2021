@@ -16,7 +16,7 @@ Details zu Zeitplanung und Teilnahme am Kurs entnehmen Sie bitte der Einladung:
 - [Analysis II Miniskript](https://github.com/JoKaBus/ANAII2021/blob/main/Skript/AnalysisIIMiniskript.pdf):
 Sätze, Übungsaufgaben, Musterlösungen. Stand: 26.03.2021, 09:45 Uhr
 - [Korrektur zu den Phasenräumen](https://github.com/JoKaBus/ANAII2021/blob/main/Skript/PhasenraeumeKorrektur.pdf)
-- [Probeklausur](https://github.com/JoKaBus/ANAII2021/blob/main/Skript/probeklausur.pdfDELETEME)
+- [Probeklausur](https://github.com/JoKaBus/ANAII2021/blob/main/Skript/probeklausur.pdf)
 Freischaltung am 26.03.2021 um 10:15
 
 ## Zeitplan
