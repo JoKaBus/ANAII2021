@@ -38,7 +38,7 @@ Themen: Differenzierbarkeit, Kettenregel, Satz von Taylor, Extrema
 - [x] Aufgabe 8.1.7
 - [x] Aufgabe 8.1.10
 - [ ] Aufgabe 8.1.11
-- [ ] Aufgabe 8.1.12 (Korrigierte Version online, (x+1) anstelle von (x+1/2) unterm Bruch)
+- [ ] Aufgabe 8.1.12 
 
 ### Mittwoch, 24.03.2021: Differentialgleichung
 Themen: Satz über implizite Funktionen, Lagrang-Multiplikatoren, Differentation unterm Integral, Klassifikation und Lösungsmethoden gewöhnlicher Differentialgleichungen
@@ -61,6 +61,7 @@ Themen: Phasenräume, Fundamentalsystem
 
 ### Freitag, 26.03.2021: Probeklausur
 Themen: Korrektur zu den Phasenräumen, Klausurtipps
+
 - [x] Aufgabe 2.4.6 (Korrektur)
 - [x] Aufgabe 3.1.1
 - [x] Aufgabe 3.1.2
