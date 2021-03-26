@@ -14,10 +14,9 @@ Details zu Zeitplanung und Teilnahme am Kurs entnehmen Sie bitte der Einladung:
 
 ## Kursmaterialien
 - [Analysis II Miniskript](https://github.com/JoKaBus/ANAII2021/blob/main/Skript/AnalysisIIMiniskript.pdf):
-Sätze, Übungsaufgaben, Probeklausur, Musterlösungen. Stand: 26.03.2021, 13:07 Uhr
-- [Korrektur zu den Phasenräumen](https://github.com/JoKaBus/ANAII2021/blob/main/Skript/PhasenraeumeKorrektur.pdf)
-- [Probeklausur](https://github.com/JoKaBus/ANAII2021/blob/main/Skript/probeklausur.pdf)
-Freischaltung am 26.03.2021 um 10:15
+Stand: 26.03.2021, 16:40 Uhr.
+
+Inhalt: Definitionen, Sätze, Übungsaufgaben, Musterlösungen zu Differentialrechnung und gewöhnlichen Differentialgleichungen im Rn.
 
 ## Zeitplan
 
@@ -63,9 +62,9 @@ Themen: Phasenräume, Fundamentalsystem
 ### Freitag, 26.03.2021: Probeklausur
 Themen: Korrektur zu den Phasenräumen, Klausurtipps
 - [x] Aufgabe 2.4.6 (Korrektur)
-- [ ] Aufgabe 3.1.1
-- [ ] Aufgabe 3.1.2
-- [ ] Aufgabe 3.1.3
-- [ ] Aufgabe 3.1.4
-- [ ] Aufgabe 3.1.5
-- [ ] Aufgabe 3.1.6
+- [x] Aufgabe 3.1.1
+- [x] Aufgabe 3.1.2
+- [x] Aufgabe 3.1.3
+- [x] Aufgabe 3.1.4
+- [x] Aufgabe 3.1.5
+- [x] Aufgabe 3.1.6
