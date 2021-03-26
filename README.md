@@ -55,10 +55,17 @@ Themen: Satz über implizite Funktionen, Lagrang-Multiplikatoren, Differentation
 Themen: Phasenräume, Fundamentalsystem
 
 - [ ] Aufgabe 2.4.2
-- [ ] Aufgabe 2.4.3
+- [x] Aufgabe 2.4.3
 - [ ] Aufgabe 2.4.4
 - [x] Aufgabe 2.4.5 (Gemeinsam)
-- [ ] Aufgabe 2.4.6
+- [x] Aufgabe 2.4.6
 
 ### Freitag, 26.03.2021: Probeklausur
 Themen: Korrektur zu den Phasenräumen, Klausurtipps
+- [x] Aufgabe 2.4.6 (Korrektur)
+- [ ] Aufgabe 3.1.1
+- [ ] Aufgabe 3.1.2
+- [ ] Aufgabe 3.1.3
+- [ ] Aufgabe 3.1.4
+- [ ] Aufgabe 3.1.5
+- [ ] Aufgabe 3.1.6
