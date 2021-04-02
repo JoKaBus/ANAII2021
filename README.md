@@ -14,7 +14,7 @@ Details zu Zeitplanung und Teilnahme am Kurs entnehmen Sie bitte der Einladung:
 
 ## Kursmaterialien
 - [Analysis II Miniskript](https://github.com/JoKaBus/ANAII2021/blob/main/Skript/AnalysisIIMiniskript.pdf):
-Stand: 02.04.2021, 21:40 Uhr.
+Stand: 02.04.2021, 21:55 Uhr.
 
 Inhalt: Definitionen, Sätze, Übungsaufgaben, Musterlösungen zu Differentialrechnung und gewöhnlichen Differentialgleichungen im Rn.
 
